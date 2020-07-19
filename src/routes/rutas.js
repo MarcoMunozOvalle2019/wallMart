@@ -11,5 +11,14 @@ router.route('/busqueda')
     res.render('index', { title: req.query.title });
   })
 
+  router.route('/festivota')
+  .get(async function(req, res) {
+    res.redirect('http://festivota.cl')
+  })
+
+  router.route('/festivota/festival')
+  .get(async function(req, res) {
+    res.redirect('http://festivota.cl/festival')
+  })
 
 module.exports= router
