@@ -11,11 +11,11 @@ if consults are with palindromes's word then it obtain 50% discount
 
 ## Extension tasks
 1. this stask was doing by nodeJS, ejs ( engine ), 
-2. Implement did not need front-end engine like Angular or React-Redux intead of i could do it.
-3. I used heroku site to deploy 
-4. I used mlab to mongoDB
-5. I used enviroment variables just to sho how to use it.
-6. I use Jest to unitary test in 3 files.
+2. Implement did not need front-end engine like Angular or React-Redux 
+3. it was made heroku site to deploy 
+4. it was used by mlab company to mongoDB
+5. it was made with environment variables just to show how to use it.
+6. it was made with Jest to unitary test in 3 files.
 7. thaks 
 
 ## Requirements
