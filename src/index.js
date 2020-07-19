@@ -5,10 +5,10 @@ const app = express()
 const mongoose = require('mongoose');
 require ('dotenv').config()
 
-const puerto='';
-const usuario='';
-const clave='';
-const ruta='';
+const puerto=8080;
+const usuario='marco';
+const clave='Marko123';
+const ruta='/api/v1/productos';
 
 const bodyParser = require('body-parser')
 
