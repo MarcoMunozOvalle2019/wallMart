@@ -30,7 +30,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(app.get('ruta'), require('../src/routes/rutas')  )
 
 mongoose
-    .connect(`mongodb+srv://${app.get('user')}:${app.get('password')}@cluster0.icf6j.mongodb.net/marco?retryWrites=true&w=majority`, {
+    //.connect(`mongodb+srv://${app.get('user')}:${app.get('password')}@cluster0.icf6j.mongodb.net/marco?retryWrites=true&w=majority`, {
+    .connect(`mongodb+srv://marco:Marko123@cluster0.icf6j.mongodb.net/marco?retryWrites=true&w=majority`, {
       useUnifiedTopology: true,
       useNewUrlParser: true,
       socketTimeoutMS: 5000 
