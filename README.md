@@ -3,11 +3,11 @@
 This codebase is used to  wallMart company like challeng one
 
 ## Problem Statement
-they ask me for some app to be able palindromo word give 50% discount in 
+they ask me for some app to be able palindromes's word give 50% discount in 
 
 ## Existing Business Rules
 searh product by id brand and description. if ask for id this must show exactly that product
-if consults are with palindromo'word then it obtain 50% discount
+if consults are with palindromes's word then it obtain 50% discount
 
 ## Extension tasks
 1. this stask was doing by nodeJS, ejs ( engine ), 
