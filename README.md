@@ -17,6 +17,7 @@ if consults are with palindromes's word then it obtain 50% discount
 5. it was made with environment variables just to show how to use it.
 6. it was made with Jest to unitary test in 3 files.
 7. it was used facade design pattern
+8. it was used simple 50% not currency fix up, simple divsion of number.
 
 thanks a lot
 
