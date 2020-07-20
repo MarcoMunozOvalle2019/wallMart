@@ -16,6 +16,7 @@ if consults are with palindromes's word then it obtain 50% discount
 4. it was used by mlab company to mongoDB
 5. it was made with environment variables just to show how to use it.
 6. it was made with Jest to unitary test in 3 files.
+7. it was used facade design pattern
 
 thanks a lot
 
